@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = michelle@barrie.cl
+	name = Michelle Barrie
